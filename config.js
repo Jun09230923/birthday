@@ -16,6 +16,7 @@ var config = {
         "对了，礼物收全了吗？",
         "今年要吃好好的",
         "喂饱饱的",
+        "开开心心的",
         "然后才有力气干活",
         "和想我！",
         "生日快乐~~",
@@ -43,6 +44,7 @@ var config = {
         "对了，礼物收全了吗？": "./imgs/chuo.gif",
         "今年要吃好好的": "./imgs/chihaodian.jpeg",
         "喂饱饱的": "./imgs/weibao.jpeg",
+        "开开心心的": "./imgs/nothing.jpg",
         "然后才有力气干活": "./imgs/nothing.jpg",
         "和想我！": "./imgs/nothing.jpg",
         "生日快乐~~": "./imgs/nothing.jpg"
