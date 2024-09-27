@@ -32,7 +32,7 @@ var config = {
      */
     imgs: {
         "送给我": "./imgs/songxinxin.jpeg",
-        "最爱的小羊羊": "./imgs/nothing.jpg",
+        "最爱的小羊羊": "./imgs/main.jpg",
         "今天是你的生日": "./imgs/shengri.jpeg",
         "这是我们在一起的": "./imgs/zaiyiqi.png",
         "第二个生日！！": "./imgs/nothing.jpg",
