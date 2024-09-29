@@ -13,7 +13,7 @@ var config = {
         "可爱的样子",
         "生气的样子",
         "都是我喜欢的样子",
-        "对了，礼物收全了吗？",
+        "希望你喜欢这个相机",
         "今年要吃好好的",
         "喂饱饱的",
         "开开心心的",
@@ -41,7 +41,7 @@ var config = {
         "可爱的样子": "./imgs/nothing.jpg",
         "生气的样子": "./imgs/nothing.jpg",
         "都是我喜欢的样子": "./imgs/nothing.jpg",
-        "对了，礼物收全了吗？": "./imgs/chuo.gif",
+        "希望你喜欢这个相机": "./imgs/chuo.gif",
         "今年要吃好好的": "./imgs/chihaodian.jpeg",
         "喂饱饱的": "./imgs/weibao.jpeg",
         "开开心心的": "./imgs/nothing.jpg",
@@ -54,12 +54,12 @@ var config = {
     desc: {
         turn_on: "点我开始",
         play: "上音乐",
-        bannar_coming: "搞点颜色",
+        bannar_coming: "加点颜色",
         balloons_flying: "好像还少点东西",
         cake_fadein: "蛋糕？",
         light_candle: "蜡烛？",
         wish_message: "生日快乐～",
-        story: "A MESSAGE FOR YOU"
+        story: "一些送给比比的话"
     },
 
     // 结束语
