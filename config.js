@@ -33,21 +33,21 @@ var config = {
     imgs: {
         "送给我": "./imgs/songxinxin.jpeg",
         "最爱的小羊羊": "./imgs/main.jpg",
-        "今天是你的生日": "./imgs/shengri.jpeg",
+        "今天是你的生日": "./imgs/birthday.jpg",
         "这是我们一起度过的": "./imgs/yiqiduguo.jpg",
         "第二个生日！！": "./imgs/second.jpg",
         "这两年来，我见过你": "./imgs/yangzi.jpeg",
-        "困困的样子": "./imgs/kun.jpg",
+        "困困的样子": "./imgs/kun.png",
         "可爱的样子": "./imgs/keai.jpg",
-        "生气的样子": "./imgs/nothing.jpg",
+        "生气的样子": "./imgs/shengqi.jpg",
         "都是我喜欢的样子": "./imgs/nothing.jpg",
         "希望你喜欢这个相机": "./imgs/相机.jpg",
-        "今年要吃好好的": "./imgs/chihaodian.jpeg",
-        "喂饱饱的": "./imgs/weibao.jpeg",
-        "开开心心的": "./imgs/nothing.jpg",
+        "今年要吃好好的": "./imgs/chi.jpeg",
+        "喂饱饱的": "./imgs/wei.jpeg",
+        "开开心心的": "./imgs/kaixin.png",
         "然后才有力气干活": "./imgs/nothing.jpg",
-        "和想我！": "./imgs/nothing.jpg",
-        "生日快乐~~": "./imgs/nothing.jpg"
+        "和想我！": "./imgs/xiangwo.jpg",
+        "生日快乐~~": "./imgs/happybirthday.jpg"
     },
     
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
