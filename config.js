@@ -42,7 +42,7 @@ var config = {
         "生气的样子": "./imgs/shengqi.jpg",
         //"都是我喜欢的样子": "./imgs/nothing.jpg",
         "希望你喜欢这个相机": "./imgs/相机.jpg",
-        "今年要吃好好的": "./imgs/chi.jpeg",
+        "今年要吃好好的": "./imgs/chi.jpg",
         //"喂饱饱的": "./imgs/wei.jpeg",
         "开开心心的": "./imgs/kaixin.png",
         "然后才有力气干活": "./imgs/shangban.png",
