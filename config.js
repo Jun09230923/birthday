@@ -31,7 +31,7 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "送给我": "./imgs/songxinxin.jpeg",
+        //"送给我": "./imgs/songxinxin.jpeg",
         "最爱的小羊羊": "./imgs/main.jpg",
         "今天是你的生日": "./imgs/birthday.jpg",
         "这是我们一起度过的": "./imgs/yiqiduguo.jpg",
@@ -40,7 +40,7 @@ var config = {
         "困困的样子": "./imgs/kun.png",
         "可爱的样子": "./imgs/keai.jpg",
         "生气的样子": "./imgs/shengqi.jpg",
-        "都是我喜欢的样子": "./imgs/nothing.jpg",
+        //"都是我喜欢的样子": "./imgs/nothing.jpg",
         "希望你喜欢这个相机": "./imgs/相机.jpg",
         "今年要吃好好的": "./imgs/chi.jpeg",
         //"喂饱饱的": "./imgs/wei.jpeg",
